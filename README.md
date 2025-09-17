@@ -21,7 +21,7 @@
   </div>
   
   <p>답장도 부탁해 *0^-^0*<br>
-  => : <legend>이메일 보내기<legend> <br>
+  => : <legend>이메일 보내기</legend> <br>
   뻥이야 아직 못만들어 </p>
   <div stytle="color: pink;">
   담에 진짜로 배워서 돌아올게
