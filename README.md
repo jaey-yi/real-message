@@ -1,9 +1,10 @@
-<!DOCTYPE html>
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
   <title>송재근에게 보내는 편지</title>
 </head>
+
+
 <body>
   <p>TO <strong>송재근</strong> <br>
     오빠 안녕 나야 <br>
