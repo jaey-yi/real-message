@@ -17,6 +17,7 @@
   <div style="color: gray;">
     신난다 <br>
     오늘 이미지랑 링크랑 비디오 연결하는거 배웠어<br>
+    <a href = "https://i.namu.wiki/i/907wJFpTMg2zOUiNFA24faI9X8abG4tbl9VKc3nW9Sgm1aJo0vUXEslLhNNjBvfpnLAO9sTxtVVK79GPcVRdag.webp" alt = "웃는 나"> <br>
     다음에는 좀 더 간지나는걸로 보낼게<br>
   </div>
   
